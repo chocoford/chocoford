@@ -1,4 +1,10 @@
-[![Chocoford's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocoford)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Chocoford's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocoford&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=chocoford&theme=radical" />
+</a>
+-->
 
 <!--
 **chocoford/chocoford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
