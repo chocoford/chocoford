@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My apps
+
+[![ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ/raw/main/ExcalidrawZ/Assets.xcassets/AppIcon.appiconset/AppIcon-128.0x128.0@1x.png?raw=true)](https://github.com/chocoford/ExcalidrawZ)
+[<img src="https://github.com/chocoford/chocoford/assets/28218759/b557ef2a-9fc4-48f2-8a0d-2b785eaa7774" style="width: 128px; height: 128px" />]()
+
+
