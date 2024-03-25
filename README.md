@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 ## My apps
 
 [![ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ/raw/main/ExcalidrawZ/Assets.xcassets/AppIcon.appiconset/AppIcon-128.0x128.0@1x.png?raw=true)](https://github.com/chocoford/ExcalidrawZ)
-[<img src="https://github.com/chocoford/chocoford/blob/main/public/Uniamulet%20logo.png?raw=true" style="width: 128px; height: 128px" />]()
+<!--[<img src="https://github.com/chocoford/chocoford/blob/main/public/Uniamulet%20logo.png?raw=true" style="width: 128px; height: 128px" />]()-->
 
 
